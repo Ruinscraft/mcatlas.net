@@ -2,9 +2,7 @@
 <html>
   <head>
     <?php
-      $request_components = parse_url($_SERVER['REQUEST_URI']);
-      $wiki_page = $request_components[2];
-      echo `<meta http-equiv="refresh" content="0; url=https://github.com/Ruinscraft/mcatlas-wiki/wiki` . $wiki_page . `">`;
+      echo "<meta http-equiv=\"refresh\" content=\"0; url='https://github.com/Ruinscraft/mcatlas-wiki". $_SERVER['REQUEST_URI'] . "'\" />";
     ?>
   </head>
 </html>
