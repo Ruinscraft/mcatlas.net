@@ -19,13 +19,13 @@
 					<li class="rule-list-entry">No harassing or bullying other players.</li>
 					<li class="rule-list-entry">No spamming or flooding chat.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
-					<li class="rule-list-entry">If a staff member is performing staff duties, don't attack them. Be nice.</li>
 					<li class="rule-list-entry">Do not evade or attempt to evade a ban or mute.</li>
 				</ol>
 				<h3>Builds</h3>
 				<ol id="rule-list">
 					<li class="rule-list-entry">Do not significantly alter or destroy the surface of the world. You can cut down a tree, but don't blow up a mountain.</li>
 					<li class="rule-list-entry">Do not build unrealistic structures (sky islands, floating Towns, underwater cities, etc).</li>
+					<li class="rule-list-entry">Do not build lavacasts, unless it is used for a smooth wall or something similarly controlled.</li>
 					<li class="rule-list-entry">Do not create large islands (more than 1x1 chunk) in oceans. You are not allowed to create multiple islands in one area.</li>
 					<li class="rule-list-entry">Do not block waterways. You may build bridges; at least a 2 block gap between the surface of the water and the bottom of the bridge must be left so boats may easily pass underneath.</li>
 					<li class="rule-list-entry">Do not build bridges more than 4 blocks wide across large oceans or bays. Typically, ice bridges with side walls or railroad bridges are a good idea.</li>
@@ -47,12 +47,14 @@
 					<li class="rule-list-entry">Towns can be any distance away from a Nation capital. The Nation's name must be relevant to the Nation's capital's location.</li>
 					<li class="rule-list-entry">You may only have up to 2 alternate accounts join a town. An alternate account cannot be the mayor of a town.</li>
 					<li class="rule-list-entry">Do not create a Town or claim land close to another Town just to block the other Town's growth. You are allowed to expand near/next to it if given permission by the original Town. Don't go out of your way to claim near their Town!</li>
+					<li class="rule-list-entry">Odd town claims, including large unfilled outlines or disconnected singular claims, are discouraged. Staff have the discretion to remove these claims if they are in a high demand area, are unused, or have a poor appearance on the map.</li>
 				</ol>
 				<h3>PvP</h3>
 				<ol id="rule-list">
 					<li class="rule-list-entry">PvP is only allowed if PvP is enabled by the Town. If you can't PvP, don't use other methods (lava, making a new claim, etc.) to kill someone.</li>
 					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed, even if a Town has PvP enabled.</li>
 					<li class="rule-list-entry">Trapping a player so that they could never escape by themselves (portal traps, bed traps, etc.) is not allowed, even if a Town has PvP enabled.</li>
+					<li class="rule-list-entry">If a staff member is performing staff duties, don't attack them. Be nice.</li>
 				</ol>
 			</div>
 		</div>
