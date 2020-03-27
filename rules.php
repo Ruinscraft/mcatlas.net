@@ -12,7 +12,7 @@
 			<div style="text-align: left; z-index: 100; position: relative">
 				<h3>General</h3>
 				<ol id="rule-list">
-					<li class="rule-list-entry">Do not use client-side cheats or hacks. You may use mods that do not provide a large advantage in gameplay (Optifine, minimaps, etc.)</li>
+					<li class="rule-list-entry">Do not use client-side cheats or hacks (includes autoclickers, X-ray texture packs, etc.). You may use mods that do not provide a large advantage in gameplay (Optifine, minimaps, etc.)</li>
 					<li class="rule-list-entry">Do not exploit any server-side bugs. <a href="https://discord.gg/srSSSgJ">Report them!</a></li>
 					<li class="rule-list-entry">Do not attempt to lag or cause harm to the server.</li>
 					<li class="rule-list-entry">No inappropriate material (builds, chat, Town names, etc). Includes swearing. Keep it PG.</li>
@@ -37,6 +37,7 @@
 					<li class="rule-list-entry">If a build is seemingly abandoned, has no claims to it, and is not near another claim, you may claim/loot/destroy it. If it looks like it's part of a nearby Town, don't touch it!</li>
 					<li class="rule-list-entry">Griefing a seemingly abandoned build in an ugly way (lava, fire, random blocks, etc.) is not allowed.</li>
 					<li class="rule-list-entry">Theft of items (from chests) is discouraged but allowed. Town or Nation bank theft is easily provable and will result in heavy punishment. Ensure you lock your chests to prevent item theft by placing a sign on them.</li>
+					<li class="rule-list-entry">Theft or killing of mobs within towns is not allowed.</li>
 					<li class="rule-list-entry">Theft of items (by killing a player who does not consent to PvP) is not allowed.</li>
 				</ol>
 				<h3>Towny (Towns and Nations)</h3>
