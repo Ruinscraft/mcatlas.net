@@ -10,7 +10,6 @@
     <a class="button" href="/map">MAP</a>
     <a class="button" href="/rules">RULES</a>
     <a class="button" href="https://github.com/Ruinscraft/mcatlas-wiki/wiki">WIKI</a>
-    <a class="button" href="/bans">BANS</a>
     <a class="button" href="https://discordapp.com/invite/srSSSgJ">DISCORD</a>
 </nav>
 
