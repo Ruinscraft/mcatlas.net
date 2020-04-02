@@ -17,7 +17,7 @@
             <div class="vote">
                 <ul id="vote-links">
                     <li>
-                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="openInNewTab(&quot;https://minecraftservers.org/vote/555821/&quot;);">
+                        <a class="nav-link" href="javascript:;" onclick="openInNewTab(&quot;https://minecraftservers.org/vote/555821/&quot;);">
                             1. MinecraftServers.org
                         </a>
                     </li>
