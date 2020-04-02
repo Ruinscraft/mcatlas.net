@@ -17,22 +17,21 @@
             <div class="vote">
                 <ul id="vote-links">
                     <li>
-                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraftservers.org/vote/555821/&quot;, this);">
+                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="openInNewTab(&quot;https://minecraftservers.org/vote/555821/&quot;);">
                             1. MinecraftServers.org
                         </a>
                     </li>
                     <li>
-                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;https://www.planetminecraft.com/server/mcatlas-4283882/vote/&quot;, this);">
+                        <a class="nav-link" href="javascript:;" onclick="openInNewTab(&quot;https://www.planetminecraft.com/server/mcatlas-4283882/vote/&quot;);">
                             2. PlanetMinecraft.com
                         </a>
                     </li>
                     <li>
-                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraft-server-list.com/server/442029/vote/&quot;, this);">
+                        <a class="nav-link" href="javascript:;" onclick="openInNewTab(&quot;https://minecraft-server-list.com/server/442029/vote/&quot;);">
                             3. Minecraft-Server-List.com
                         </a>
                     </li>
                 </ul>
-                <iframe src="https://minecraftservers.org/vote/555821/" id="vote-page"></iframe>
             </div>
         </div>
 
