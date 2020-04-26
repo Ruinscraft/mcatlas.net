@@ -38,7 +38,7 @@
 					<li class="rule-list-entry">Griefing a seemingly abandoned build in an ugly way (lava, fire, random blocks, etc.) is not allowed.</li>
 					<li class="rule-list-entry">Theft of items (from chests) is discouraged but allowed. Town or Nation bank theft is easily provable and will result in heavy punishment. Ensure you lock your chests to prevent item theft by placing a sign on them.</li>
 					<li class="rule-list-entry">Theft or killing of mobs within towns is not allowed.</li>
-					<li class="rule-list-entry">Theft of items (by killing a player who does not consent to PvP) is not allowed.</li>
+					<li class="rule-list-entry">Theft of items (by killing a player not properly warned of PvP) is not allowed.</li>
 				</ol>
 				<h3>Towny (Towns and Nations)</h3>
 				<ol id="rule-list">
@@ -53,7 +53,8 @@
 				<h3>PvP</h3>
 				<ol id="rule-list">
 					<li class="rule-list-entry">PvP is only allowed if PvP is enabled by the Town. If you can't PvP, don't use other methods (lava, making a new claim, etc.) to kill someone.</li>
-					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed, even if a Town has PvP enabled.</li>
+					<li class="rule-list-entry">Towns must give at least a 15 second warning to nearby users before enabling PvP.</li>
+					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed. If a Town already has PvP enabled, you are an outlaw in a Town, or you are in the Nether, that is also a fair warning.</li>
 					<li class="rule-list-entry">Trapping a player so that they could never escape by themselves (portal traps, bed traps, etc.) is not allowed, even if a Town has PvP enabled.</li>
 					<li class="rule-list-entry">If a staff member is performing staff duties, don't attack them. Be nice.</li>
 				</ol>
