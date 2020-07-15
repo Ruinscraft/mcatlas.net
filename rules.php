@@ -15,7 +15,8 @@
 					<li class="rule-list-entry">Do not use client-side cheats or hacks (includes autoclickers, X-ray texture packs, etc.). You may use mods that do not provide a large advantage in gameplay (Optifine, minimaps, etc.)</li>
 					<li class="rule-list-entry">Do not exploit any server-side bugs. <a href="https://discord.gg/srSSSgJ">Report them!</a></li>
 					<li class="rule-list-entry">Do not attempt to lag or cause harm to the server.</li>
-					<li class="rule-list-entry">No inappropriate material (builds, chat, Town names, etc). Includes swearing. Keep it PG.</li>
+					<li class="rule-list-entry">No inappropriate/NSFW material (including builds, chat, books, Town names, etc). Includes swearing. Keep it PG-13.</li>
+					<li class="rule-list-entry">Do not post racist, homophobic, or other inflammatory speech (in chat, on signs, in books, etc).</li>
 					<li class="rule-list-entry">No harassing or bullying other players.</li>
 					<li class="rule-list-entry">No spamming or flooding chat.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
