@@ -19,7 +19,7 @@
 					<li class="rule-list-entry">Do not post racist, homophobic, or other inflammatory speech (in chat, on signs, in books, etc).</li>
 					<li class="rule-list-entry">Do not attempt to bypass the chat filter.</li>
 					<li class="rule-list-entry">No harassing or bullying other players.</li>
-					<li class="rule-list-entry">No spamming the chat. This means sending several successive messages (more than two) with the same or similar content.</li>
+					<li class="rule-list-entry">No spamming the chat. This means sending several successive messages (more than two) with the same or similar content. This could also mean sending the same character, word, or phrase several times over within the same message.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
 					<li class="rule-list-entry">Do not evade or attempt to evade a ban or mute.</li>
 				</ol>
