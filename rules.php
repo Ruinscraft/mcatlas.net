@@ -56,7 +56,7 @@
 				<ol id="rule-list">
 					<li class="rule-list-entry">If you're not in a PvP enabled area, don't use other methods (lava, making a new claim, etc.) to kill someone.</li>
 					<li class="rule-list-entry">Towns must give at least a 15 second warning to nearby users before enabling PvP.</li>
-					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed. If a Town already has PvP enabled, you are an outlaw in a Town, or you are in the Nether, that is also a fair warning.</li>
+					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed. If a Town already has PvP enabled or you are in the Nether, that is also a fair warning.</li>
 					<li class="rule-list-entry">Do not trap a player so that they could never escape by themselves (portal traps, bed traps, etc.).</li>
 					<li class="rule-list-entry">Logging out in a potential PvP situation ("combat logging") is not allowed.</li>
 					<li class="rule-list-entry">If a staff member is performing staff duties, do not attack them.</li>
