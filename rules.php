@@ -22,7 +22,7 @@
 					<li class="rule-list-entry">No spamming the chat. This means sending several successive messages (more than two) with the same or similar content. This could also mean sending the same character, word, or phrase several times over within the same message.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
 					<li class="rule-list-entry">Do not evade or attempt to evade a ban or mute.</li>
-					<li class="rule-list-entry">Do not sell in game currency or items for real tmoney.</li>
+					<li class="rule-list-entry">Do not sell in game currency or items for real money.</li>
 				</ol>
 				<h3>Builds</h3>
 				<ol id="rule-list">
