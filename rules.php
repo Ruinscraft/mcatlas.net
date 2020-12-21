@@ -59,6 +59,7 @@
 					<li class="rule-list-entry">Towns must give at least a 15 second warning to nearby users before enabling PvP.</li>
 					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed. If a Town already has PvP enabled or you are in the Nether/End, that is also a fair warning.</li>
 					<li class="rule-list-entry">Do not trap a player so that they could never escape by themselves (portal traps, bed traps, etc.).</li>
+					<li class="rule-list-entry">Do not lure a player into being "spawn killed." AKA tricking someone to teleporting somewhere in order to kill them.</li>
 					<li class="rule-list-entry">Logging out in a potential PvP situation ("combat logging") is not allowed.</li>
 					<li class="rule-list-entry">If a staff member is performing staff duties, do not attack them.</li>
 				</ol>
