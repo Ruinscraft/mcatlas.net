@@ -23,6 +23,7 @@
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
 					<li class="rule-list-entry">Do not evade or attempt to evade a ban or mute.</li>
 					<li class="rule-list-entry">Do not sell in game currency or items for real money.</li>
+					<li class="rule-list-entry">We do not recommend you share your Minecraft account information with others. Any rules broken under your account, even if someone else is using it, will result in the appropriate punishment.</li>
 				</ol>
 				<h3>Builds</h3>
 				<ol id="rule-list">
