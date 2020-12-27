@@ -27,12 +27,6 @@
 
         <div class="content-section">
             <hr>
-            <h1>WORLD STATS</h1>
-            <?php include('includes/stats.php') ?>
-        </div>
-
-        <div class="content-section">
-            <hr>
             <h1>LEARN TO PLAY</h1>
             <ul id="help-list">
                 <li><a href="https://github.com/Ruinscraft/mcatlas-wiki/wiki">Getting Started</a></li>
